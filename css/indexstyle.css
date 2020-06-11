@@ -1,0 +1,51 @@
+.ngoname{
+  text-decoration: bold;
+}
+
+.title{
+margin-top: 3vw;
+}
+.img1div{
+  /* margin: auto; */
+}
+.img1{
+  margin: auto;
+  height: 20vw;
+  width: 40vw;
+}
+
+.thoughts{
+  margin-top: 2vw;
+  margin-bottom: 2vw;
+}
+.post{
+  margin-top: 2vw;
+}
+.postimg{
+  height: 30vw;
+  width: 30vw;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .title{
+  margin-top: 10vw;
+  }
+  .img1{
+    margin: auto;
+    height: 50vw;
+    width: 80vw;
+  }
+  .thoughts{
+    margin-top: 8vw;
+      margin-bottom: 8vw;
+  }
+  .post{
+    margin-top: 8vw;
+  }
+  .postimg{
+    height: 60vw;
+    width: 60vw;
+  }
+
+}
